@@ -10,12 +10,4 @@ Welcome to my GitHub profile! I'm a software engineer specializing in blockchain
 - **Programming Languages:** Rust, JavaScript, Python
 - **Technologies:** Kubernetes, Docker, Ethereum, Bitcoin
 
-## Projects
-- [Project 1](https://github.com/seanmatt/project1) - Description of project 1
-- [Project 2](https://github.com/seanmatt/project2) - Description of project 2
-
-## Contact
-- [LinkedIn](https://www.linkedin.com/in/seanmatt/)
-- [Twitter](https://twitter.com/seanmatt)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=seanmatt&color=blue)
