@@ -1,4 +1,4 @@
-Welcome to my GitHub profile! I'm a software engineer specializing in blockchain and decentralized systems.
+Welcome to my GitHub profile! I'm a software engineer specializing in decentralized systems.
 
 ## About Me
 - 🌍 Based in New York
