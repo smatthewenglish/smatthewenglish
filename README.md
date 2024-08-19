@@ -4,10 +4,10 @@ Welcome to my GitHub profile! I'm a software engineer specializing in decentrali
 - 🗽 based in new york city
 - 💼 working at jpmc
 - 🚀 specializing in zk technology and rust
-- 💬 ask me about rust and/or kubernetes
+- 💬 ask me about zk, rust or kubernetes
 
 ## Skills
-- **Programming Languages:** Rust, JavaScript, Python
-- **Technologies:** Kubernetes, Docker, Ethereum, Bitcoin
+- **Programming Languages:** rust, javascript, python
+- **Technologies:** kubernetes, docker, ethereum, bitcoin
 
 ![Profile Views](https://komarev.com/ghpvc/?username=seanmatt&color=blue)
