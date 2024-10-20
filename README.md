@@ -1,13 +1,13 @@
-Welcome to my GitHub profile! I'm a software engineer specializing in decentralized systems.
+welcome to my github profile! i'm a software engineer specializing in decentralized systems.
 
-## About Me
+## whoami
 - 🗽 based in new york city
 - 💼 working at jpmc
-- 🚀 specializing in zk technology and rust
-- 💬 ask me about zk, rust or kubernetes
+- 🚀 specializing in decentalized systems, k8s, full-stack development
+- 💬 ask me about blockchain data visualization systems
 
-## Skills
-- **Programming Languages:** rust, javascript, python
-- **Technologies:** kubernetes, docker, ethereum, bitcoin
+## skills
+- **programming languages:** c++, java, elixir, rust, javascript, python
+- **technologies:** k8s, docker, ethereum, bitcoin
 
 ![Profile Views](https://komarev.com/ghpvc/?username=seanmatt&color=blue)
