@@ -2,7 +2,6 @@ welcome to my github profile! i'm a software engineer specializing in decentrali
 
 ## whoami
 - 🗽 based in new york city
-- 💼 working at jpmc
 - 🚀 specializing in decentalized systems, k8s, full-stack development
 - 💬 ask me about blockchain data visualization systems
 
